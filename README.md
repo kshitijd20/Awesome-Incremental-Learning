@@ -3,6 +3,8 @@
 ## Papers
 
 ### 2018
+- <a name="todo"></a> DeeSIL: Deep-Shallow Incremental Learning
+ (**arxiv2018**) [[paper](https://arxiv.org/abs/1808.06396)]
 - <a name="todo"></a> Memory Replay GANs: learning to generate images from new categories without forgetting
  (**NIPS2018**) [[paper](https://arxiv.org/abs/1809.02058)]
 - <a name="todo"></a> Rotate your Networks: Better Weight Consolidation and Less Catastrophic Forgetting (R-EWC) (**ICPR2018**) [[paper](https://arxiv.org/abs/1802.02950)] [[code](https://github.com/xialeiliu/RotateNetworks)]
