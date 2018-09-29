@@ -3,6 +3,9 @@
 ## Papers
 
 ### 2018
+- <a name="todo"></a> Generative replay with feedback connections as a
+general strategy for continual learning
+ (**arxiv2018**) [[paper](https://arxiv.org/pdf/1809.10635.pdf)]
 - <a name="todo"></a> DeeSIL: Deep-Shallow Incremental Learning
  (**arxiv2018**) [[paper](https://arxiv.org/abs/1808.06396)]
 - <a name="todo"></a> Memory Replay GANs: learning to generate images from new categories without forgetting
