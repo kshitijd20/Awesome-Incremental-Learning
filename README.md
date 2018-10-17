@@ -3,6 +3,8 @@
 ## Papers
 
 ### 2018
+- <a name="todo"></a> Comparing continual task learning in minds and machines
+ (**PNAS**) [[paper](Comparing continual task learning in minds and machines)]
 - <a name="todo"></a> Generative replay with feedback connections as a
 general strategy for continual learning
  (**arxiv2018**) [[paper](https://arxiv.org/pdf/1809.10635.pdf)]
