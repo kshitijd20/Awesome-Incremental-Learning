@@ -3,6 +3,8 @@
 ## Papers
 
 ### 2018
+- <a name="todo"></a> Self-Supervised GAN to Counter Forgetting
+ (**NIPS2018**) [[paper](https://arxiv.org/pdf/1810.11579.pdf)]
 - <a name="todo"></a> Comparing continual task learning in minds and machines
  (**PNAS2018**) [[paper](http://www.pnas.org/content/early/2018/10/12/1800755115/)]
 - <a name="todo"></a> Generative replay with feedback connections as a
