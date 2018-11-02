@@ -3,6 +3,8 @@
 ## Papers
 
 ### 2018
+- <a name="todo"></a> Alleviating catastrophic forgetting using context-dependent gating and synaptic stabilization
+ (**PNAS2018**) [[paper](http://www.pnas.org/content/pnas/115/44/E10467.full.pdf)]
 - <a name="todo"></a> Comparing continual task learning in minds and machines
  (**PNAS2018**) [[paper](http://www.pnas.org/content/early/2018/10/12/1800755115/)]
 - <a name="todo"></a> Generative replay with feedback connections as a
